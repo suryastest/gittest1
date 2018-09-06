@@ -1,11 +1,11 @@
 # gittest1
 
-Getting started with Git;
-/n Browsing the history;
-Working with Remotes;
-Staging;
-Ignoring Files and Folders;
-Git Diff;
+Getting started with Git
+Browsing the history
+Working with Remotes
+Staging
+Ignoring Files and Folders
+Git Diff
 Undoing;
 Merging;
 Submodules;
