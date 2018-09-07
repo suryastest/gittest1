@@ -1,0 +1,80 @@
+//log
+
+//context.getClass()
+
+//testRunner.getClass()
+
+//context.getCurrentStepIndex()
+
+//testRunner.runTestStepByName("SOAP Request")
+
+
+// Create  Project properties 
+
+/*testRunner.testCase.testSuite.project.setPropertyValue("Prop","100")
+testRunner.testCase.testSuite.project.setPropertyValue("Prop1","120")
+testRunner.testCase.testSuite.project.setPropertyValue("Prop2","123")
+testRunner.testCase.testSuite.project.setPropertyValue("Prop3","140")
+
+
+// Print the Project Propertie
+
+testRunner.testCase.testSuite.project.getPropertyValue("Prop")
+log.info testRunner.testCase.testSuite.project.getPropertyValue("Prop1")
+log.info testRunner.testCase.testSuite.project.getPropertyValue("Prop2")
+testRunner.testCase.testSuite.project.getPropertyValue("Prop3")*/
+
+// Create Test Suite poperties
+
+/*testRunner.testCase.testSuite.setPropertyValue("Prop","11")
+testRunner.testCase.testSuite.setPropertyValue("Prop1","India")
+testRunner.testCase.testSuite.setPropertyValue("Prop2","50066")
+
+//print Test Suite Properties
+
+log.info testRunner.testCase.testSuite.getPropertyValue("Prop")
+log.info testRunner.testCase.testSuite.getPropertyValue("Prop1")
+log.info testRunner.testCase.testSuite.getPropertyValue("Prop2")*/
+
+//Create the Test Case Properties
+
+/*testRunner.testCase.setPropertyValue("Prop","11")
+testRunner.testCase.setPropertyValue("Prop1","1122")
+testRunner.testCase.setPropertyValue("Prop2","111")
+
+//print Test Case Properties
+
+log.info testRunner.testCase.getPropertyValue("Prop")
+log.info testRunner.testCase.getPropertyValue("Prop1")
+log.info testRunner.testCase.getPropertyValue("Prop2")*/
+
+//Create Global Level Properties
+
+/*com.eviware.soapui.SoapUI.globalProperties.setPropertyValue( "GlobalProp","QT")
+com.eviware.soapui.SoapUI.globalProperties.setPropertyValue( "GlobalProp1","500038")
+
+//Print Gloabl level Properties
+
+log.info com.eviware.soapui.SoapUI.globalProperties.getPropertyValue("GlobalProp")
+log.info com.eviware.soapui.SoapUI.globalProperties.getPropertyValue("GlobalProp1")*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
