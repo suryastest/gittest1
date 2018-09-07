@@ -1,3 +1,5 @@
+
+groovy proerties:
 //log
 
 //context.getClass()
